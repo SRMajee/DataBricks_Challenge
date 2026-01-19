@@ -1,0 +1,6 @@
+label,score,review_text
+POSITIVE,0.9998742341995239,This product is amazing! I use it every day.
+NEGATIVE,0.9997163414955139,"Terrible quality, waste of money. It broke immediately."
+POSITIVE,0.9993000030517578,"It's okay, average performance for the price."
+POSITIVE,0.9998425245285034,"Best purchase of the year, highly recommended!"
+POSITIVE,0.9992697834968567,"Customer service was rude, but the product is fine."
